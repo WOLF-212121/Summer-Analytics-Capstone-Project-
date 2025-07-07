@@ -1,0 +1,6 @@
+bokeh==3.7.3
+numpy==2.0.2
+pandas==2.2.2
+panel==1.7.2
+pathway==0.24.1
+session_info==1.0.1
