@@ -52,7 +52,8 @@ By implementing dynamic pricing, urban parking can be optimized to:
 6. Visualization: Plot dynamic pricing outputs with interactive Bokeh dashboards.
 
 📁 Repository Structure
-.
+
+
 ├── data/              # Datasets used
 
 ├── scripts/           # Data processing & model scripts
