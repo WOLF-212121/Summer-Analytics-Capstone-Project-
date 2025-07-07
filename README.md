@@ -50,6 +50,15 @@ By implementing dynamic pricing, urban parking can be optimized to:
 4. Time Windowing: Use timestamps to track and analyze data in daily windows.
 5. Price Prediction: Compute real-time prices using the above models.
 6. Visualization: Plot dynamic pricing outputs with interactive Bokeh dashboards.
+
+📁 Repository Structure
+.
+├── data/              # Datasets used
+├── scripts/           # Data processing & model scripts
+├── visualizations/    # Bokeh plots & dashboards
+├── requirements.txt   # Required libraries
+└── README.md          # Project overview
+
   
 
 ✅ Key Outcomes
