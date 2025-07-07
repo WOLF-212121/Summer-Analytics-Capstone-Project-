@@ -54,9 +54,13 @@ By implementing dynamic pricing, urban parking can be optimized to:
 📁 Repository Structure
 .
 ├── data/              # Datasets used
+
 ├── scripts/           # Data processing & model scripts
+
 ├── visualizations/    # Bokeh plots & dashboards
+
 ├── requirements.txt   # Required libraries
+
 └── README.md          # Project overview
 
   
