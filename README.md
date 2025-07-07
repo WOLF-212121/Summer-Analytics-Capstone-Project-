@@ -1,4 +1,5 @@
 🚗 Urban Parking Lots – Real-Time Dynamic Pricing System
+
 Welcome to the repository for our Capstone Project under Summer Analytics. This project focuses on developing a real-time dynamic pricing system for urban parking lots.
 
 📌 Project Overview
